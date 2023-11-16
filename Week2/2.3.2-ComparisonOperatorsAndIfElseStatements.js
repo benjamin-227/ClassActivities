@@ -1,4 +1,4 @@
-let age = 25;
+let age = 15;
 
 // Write an If Else statement
 if (age >= 25) {
@@ -10,7 +10,6 @@ if (age >= 25) {
 // console.log "Renting a car is more affordable."
 // if age is less than 25
 // console.log "Renting a car is very expensive."
-
 
 // Chaining if statements: if - else if - ... - else
 
