@@ -32,4 +32,10 @@ function checkCircusRides() {
 }
 
 // change the function above to use short circuiting
-console.log(checkCircusRides());
+
+let greeting;
+function weather(name, temp, condition) {
+  greeting = `Hello ${name}, it is currently ${temp} degrees and is ${condition}.`;
+  return greeting;
+}
+weather("ben", 43, "windy");
